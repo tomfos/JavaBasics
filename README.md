@@ -7,6 +7,7 @@ Bienvenue ! Voici une liste d'exercices Java que j'ai réalisés pour m'entraîn
 - [Exercice 1 - Variables et affichage](#exercice-1)
 - [Exercice 2 - Conditions](#exercice-2)
 - [Exercice 3 - Boucles](#exercice-3)
+- [Exercice 4 - Arraylist](#exercice-4.1)
 
 ---
 
@@ -56,5 +57,18 @@ La somme de tous les nombres
 La valeur minimum du tableau
 La valeur maximum du tableau
 La moyenne des nombres (avec 2 décimales)
+
+---
+
+## Exercice 4.1
+
+Liste de Course Simple
+Objectif : Apprendre les opérations de base ArrayList (add, size, get)
+Écrivez un programme Java qui :
+
+Crée une ArrayList pour stocker des articles de course (String)
+Demande à l'utilisateur de saisir 5 articles pour sa liste de course
+Affiche tous les articles dans la liste avec leurs numéros de position
+Montre le nombre total d'articles
 
 <!-- 🔗 Voir le code source : [exo3/Exo3.java](exo3/Exo3.java) -->
