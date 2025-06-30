@@ -7,7 +7,7 @@ Bienvenue ! Voici une liste d'exercices Java que j'ai réalisés pour m'entraîn
 - [Exercice 1 - Variables et affichage](#exercice-1)
 - [Exercice 2 - Conditions](#exercice-2)
 - [Exercice 3 - Boucles](#exercice-3)
-- [Exercice 4 - Arraylist](#exercice-4.1)
+- [Exercice 4 - Arraylist](#exercice-4)
 
 ---
 
