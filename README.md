@@ -60,7 +60,7 @@ La moyenne des nombres (avec 2 décimales)
 
 ---
 
-## Exercice 4.1
+## Exercice 4
 
 Liste de Course Simple
 Objectif : Apprendre les opérations de base ArrayList (add, size, get)
