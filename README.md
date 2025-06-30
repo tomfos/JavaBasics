@@ -62,7 +62,7 @@ La moyenne des nombres (avec 2 décimales)
 
 ## Exercice 4
 
-Liste de Course Simple
+Exercice 1 : Liste de Course Simple
 Objectif : Apprendre les opérations de base ArrayList (add, size, get)
 Écrivez un programme Java qui :
 
@@ -70,5 +70,14 @@ Crée une ArrayList pour stocker des articles de course (String)
 Demande à l'utilisateur de saisir 5 articles pour sa liste de course
 Affiche tous les articles dans la liste avec leurs numéros de position
 Montre le nombre total d'articles
+
+Exercice 2 : Collection Dynamique de Nombres
+Objectif : Apprendre les méthodes add(), remove(), contains()
+Écrivez un programme Java qui :
+
+Crée une ArrayList d'entiers
+Affiche un menu avec les options : 1-Ajouter nombre, 2-Supprimer nombre, 3-Vérifier si nombre existe, 4-Afficher tous, 5-Quitter
+Continue jusqu'à ce que l'utilisateur choisisse quitter
+Gère les saisies invalides correctement
 
 <!-- 🔗 Voir le code source : [exo3/Exo3.java](exo3/Exo3.java) -->

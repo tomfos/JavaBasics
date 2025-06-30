@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class Exo1 {
   public static void main(String[] args) {
-    System.err.println("hello");
 
     try (Scanner saisit = new Scanner(System.in)) {
 
